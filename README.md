@@ -5,8 +5,8 @@ This is a silly little game I made as a small project for university using Pytho
 ## The player has a base which (s)he has to defend against increasingly fast and strong waves of enemies
 
 ### Instructions:
-Game starts automatically
-The player must click on the approaching enemies to kill them
-You gain points for killing enemies: 3 for a plane, 2 for a tank, 1 for an infantryman
-Game ends when your base is destroyed. Enjoy!
+Game starts automatically  
+The player must click on the approaching enemies to kill them  
+You gain points for killing enemies: 3 for a plane, 2 for a tank, 1 for an infantryman  
+Game ends when your base is destroyed. Enjoy!  
 
