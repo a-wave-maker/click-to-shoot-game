@@ -1,6 +1,6 @@
 *see Stickman Defense War*
 
-This is a silly little game I made as a small project for university using Python and object oriented programming with help of the pygame module
+This is a silly little game I made as a small project for university using Python and object oriented programming with help of the [pygame](https://www.pygame.org/news) module
 
 ## The player has a base which (s)he has to defend against increasingly fast and strong waves of enemies
 
